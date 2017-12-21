@@ -7,3 +7,6 @@ branch master modify
 branch dev3 stash save
 branch dev3 stash save2
 branch dev3 commit
+user1 dev3 modify
+user2 dev3 modify
+
