@@ -1,5 +1,5 @@
 branch master modify
 branch master stage modify
-branch dev£³ modify¡¡
 branch dev2 modify¡¡
 branch dev modify
+branch dev£³ modify¡¡
